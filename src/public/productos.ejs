@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="width: 0;">
+<% if (productos.length === 0) { %>
+<h1>No hay productos para mostrar</h1>
+<% }else{ %>
+    <table style=" border:1px solid black;" id="productTable">
+        <tr>
+        <th style=" border:1px solid black;">Título</th>
+        <th style=" border:1px solid black;">Precio</th>
+        <th style=" border:1px solid black;">Imágen</th>
+        </tr>
+</table>
+<% } %> 
+<a href="http://localhost:8080"><button>Agregar productos</button>
+</a>
+</body>
+<script src="/socket.io/socket.io.js"></script>
+<script src="./js/productos.js"></script>
+</html>

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Ventilador",
+    "price": 4000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_626105-MLA32384814346_102019-O.webp",
+    "id": "1"
+  },
+  {
+    "title": "Heladera",
+    "price": 1234,
+    "thumbnail": "http://localhost:8080/thumbnail/1667482179212-heladera-no-frost-electrolux-dfn3000p-plata-265lts-_Detalhe1.png",
+    "id": 2
+  },
+  {
+    "title": "Mesa",
+    "price": 12345,
+    "thumbnail": "http://localhost:8080/thumbnail/1667847005825-imagen_2022-11-07_155004856.png",
+    "id": 3
+  },
+  {
+    "title": "Computadora",
+    "price": 20000,
+    "thumbnail": "http://localhost:8080/thumbnail/1667850553942-imagen_2022-11-07_164913071.png",
+    "id": 4
+  },
+  {
+    "title": "Televisión",
+    "price": 10000,
+    "thumbnail": "http://localhost:8080/thumbnail/1667853246645-imagen_2022-11-07_173405875.png",
+    "id": 5
+  },
+  {
+    "title": "Cama",
+    "price": 50000,
+    "thumbnail": "http://localhost:8080/thumbnail/1668038367100-imagen_2022-11-09_205925331.png",
+    "id": 6
+  },
+  {
+    "title": "Colchon",
+    "price": 8600,
+    "thumbnail": "http://localhost:8080/thumbnail/1668038648642-imagen_2022-11-09_210407376.png",
+    "id": 7
+  },
+  {
+    "title": "Celular",
+    "price": 80000,
+    "thumbnail": "http://localhost:8080/thumbnail/1668038845793-imagen_2022-11-09_210724442.png",
+    "id": 8
+  },
+  {
+    "title": "Zapatillas",
+    "price": 12500,
+    "thumbnail": "http://localhost:8080/thumbnail/1668038947061-imagen_2022-11-09_210905493.png",
+    "id": 9
+  },
+  {
+    "title": "Remera",
+    "price": 800,
+    "thumbnail": "http://localhost:8080/thumbnail/1668040833538-imagen_2022-11-09_214032233.png",
+    "id": 10
+  }
+]
